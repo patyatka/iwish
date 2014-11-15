@@ -1,0 +1,13 @@
+{
+  "name": "iwish",
+  "version": "0.0.1",
+  "description": "It's your jinnee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman and me,myself and I",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
